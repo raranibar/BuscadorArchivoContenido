@@ -1,0 +1,16 @@
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\BuscadorArchivoContenido.exe.config
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\BuscadorArchivoContenido.exe
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\BuscadorArchivoContenido.pdb
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\Conexión.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\FrameWork.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\office.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\stdole.dll
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\bin\Debug\office.xml
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\obj\Debug\BuscadorArchivoContenido.csproj.AssemblyReference.cache
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\obj\Debug\BuscadorArchivoContenido.csproj.CoreCompileInputs.cache
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\obj\Debug\Buscador.41CE35A4.Up2Date
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\obj\Debug\BuscadorArchivoContenido.exe
+D:\source\BuscadorArchivoContenido\BuscadorArchivoContenido\obj\Debug\BuscadorArchivoContenido.pdb
