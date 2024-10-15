@@ -18,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\BuscadorArchivoContenido\\BuscadorArchivoContenido\\Program.cs",
+              "RelativeDocumentMoniker": "BuscadorArchivoContenido\\Program.cs",
+              "ToolTip": "D:\\source\\BuscadorArchivoContenido\\BuscadorArchivoContenido\\Program.cs",
+              "RelativeToolTip": "BuscadorArchivoContenido\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvyYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:25:00.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -34,19 +47,7 @@
               "RelativeToolTip": "BuscadorArchivoContenido\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-15T15:15:15.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\source\\BuscadorArchivoContenido\\BuscadorArchivoContenido\\Program.cs",
-              "RelativeDocumentMoniker": "BuscadorArchivoContenido\\Program.cs",
-              "ToolTip": "D:\\source\\BuscadorArchivoContenido\\BuscadorArchivoContenido\\Program.cs",
-              "RelativeToolTip": "BuscadorArchivoContenido\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAADwvzgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:25:00.201Z",
+              "WhenOpened": "2024-10-15T15:15:15.169Z",
               "EditorCaption": ""
             }
           ]

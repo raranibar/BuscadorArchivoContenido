@@ -21,8 +21,10 @@ namespace BuscadorArchivoContenido
             Console.WriteLine("Inicio => {0}", DateTime.Now.ToString());
             bool abre = AbrirConexión();
             int cont = 0;
-            
+
             //new Parámetro("Texto", "traslativa") ,
+            //new Parámetro("Texto", "\"legitimación pasiva\"") ,
+            //exec[dbo].[PaBuscarResoluciónJurisprudenciaAvanzada]  '\"legitimacion pasiva\"',0,null,null,16,null,null,39
             DataTable dtListaArchivos = Usuario.Sesión.EjecutarTabla("PaBuscarResoluciónJurisprudenciaAvanzada", new List<Parámetro>() {
                 new Parámetro("Texto", "\"legitimación pasiva\"") ,
                 new Parámetro("IdSección", 0) ,
@@ -50,15 +52,15 @@ namespace BuscadorArchivoContenido
                 }
 
                 Byte[] Pdf = null;
-                //Byte[] Word = null;
+                Byte[] Word = null;
                 DataTable dt = Usuario.Sesión.EjecutarTabla("PaSeleccionarResoluciónArchivos", new List<Parámetro>() {
                  new Parámetro("IdResolución", IdResolucion)});
                 //Genera en Word
-                //if (dt.Rows[0]["Word"] != System.DBNull.Value)
-                //{
-                //    Word = (Byte[])dt.Rows[0]["Word"];
-                //    GuardaWord(Word, DirectorioWord, NumeroResolucion.ToString());
-                //}
+                if (dt.Rows[0]["Word"] != System.DBNull.Value)
+                {
+                    Word = (Byte[])dt.Rows[0]["Word"];
+                    GuardaWord(Word, DirectorioWord, NumeroResolucion.ToString());
+                }
                 //Genera en Pdf
                 if (dt.Rows[0]["Pdf"] != System.DBNull.Value)
                 {
